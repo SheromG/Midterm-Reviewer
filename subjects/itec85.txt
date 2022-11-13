@@ -103,23 +103,77 @@
 + TRUE or FALSE: A threat is an object, person, or other entity that represents a constant danger to an asset. 
 - TRUE
 
-+ 
-- 
++ The process of identifying and controlling risks facing an organization. 
+- Risk Management 
 
-+ 
-- 
++ The process of examining an organization’s current information technology security situation. 
+- Risk Identification
 
-+ 
-- 
++ Targets of various agents’ threats and threat. 
+- Assets
 
-+ 
-- 
++ It begins with identification of assets, including all elements of an organization’s system. 
+- Iterative Process
 
-+ 
-- 
++ Responsible for classifying their information assets. 
+- Information Owner
 
-+ 
-- 
++ It must be reviewed periodically. 
+- Information
 
-+ 
-- 
++ Assign classification to all data. 
+- Data Classification and Management
+
++ Grant access to data based on classification and need. 
+- Data Classification and Management
+
++ TRUE or FALSE: Each data user assigned a single level of authorization indicating classification level. 
+- TRUE
+
++ TRUE or FALSE: It requires all information be stored in appropriate storage container daily. 
+- TRUE
+
++ TRUE or FALSE: Human resources, documentation, and data information assets are more difficult to identify. 
+- TRUE
+
++ TRUE or FALSE: People with knowledge, experience, and good judgment should be assigned this task. 
+- TRUE
+
++ TRUE or FALSE: These assets should be recorded using reliable data-handling process. 
+- TRUE
+
++ TRUE or FALSE: An organization doesn’t to need to classify data to provide protection. 
+- TRUE
+
++ TRUE or FALSE: Before accessing specific set of data, employee must meet need-to-know requirement. 
+- TRUE
+
++ Set of Rules That Protects and Organization’s Assets.
+- Security Policy
+
++ Written statement of organization purpose.
+- Mission
+
++ Written statement of organization goals.
+- Vision
+
++ Written statement of moving the organization toward its mission.
+- Strategic Plan
+
++ Set of rules that protect an organization’s information assets.
+- Information security policy
+
++ Contains a statement on the organization’s position on a specific issue
+- ISSP (Issue-Specific Security Policy)
+
++ It stipulates that at end of business day, classified information must be properly stored and secured.
+- Clean Desk Policy
+
++ The basis for design, selection, and implementation.
+- Security Blueprint
+
++ Acts as advisory board for protocols and areas developed and promoted by the Internet Society.
+- Security Area Working Group
+
++ It covers five basic areas of security with detailed discussions on Development and implementation.
+- RFC 2196: Site Security Handbook
