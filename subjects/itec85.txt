@@ -1,0 +1,443 @@
++ versions of the German code machine
+- Enigma
+
++ Complex Version of Enigma
+- submarine version
+
++ what was accomplish in 1960?
+- Mainframe
+
++ what happens in 1970's and 80's?
+- Arpanet
+
++ Discucss password secrurity?
+- Maurice Wilkes
+
++ what is security?
+- the quality or state of being secure to be free from danger
+
++ What are the multiple layers of security?
+- Physical,Personnel,Operation,Communication,Network,Information Security
+
++ It protect physical items, objects, or areas from unauthorized access and misuse?
+- Physical Security
+
++ It protect the individual or group of individuals who are authorized to access the organization and its operations?
+- Personnel Security
+
++ It protect the details of a particular operation or series of activities?
+- Operation Security
+
++ It protect communications media, technology and content?
+- Communication Security
+
++ It protect networking components, connections and contents?
+- Network Security
+
++ It protect the confidentiality, integrity and availability of information assets, whether in storage, processing, or transmission?
+- Information Security
+
++ What are the key Information Security Concepts
+- Access, Asset and Attack
+
++ A subject or object’s ability to use, manipulate, modify, or affect another subject or object?
+- Access
+
++ The organizational resource that is being protected. An asset can be logical, such as a Web site, information, or data; or an asset can be physical, such as a person, computer system, or other tangible object?
+- Asset
+
++ An intentional or unintentional act that can cause damage to or otherwise compromise information and/or the systems that support it.
+- Attack
+
++ Security mechanisms, policies, or procedures that can successfully counter attacks, reduce risk, resolve vulnerabilities, and otherwise improve the security within an organization?
+- Control, safeguard, or countermeasure
+
++ A technique used to compromise a system?
+- Exploit
+
++ A condition or state of being exposed. In information security, exposure exists when a vulnerability known to an attacker is present.
+- Exposure
+
++ A single instance of an information asset suffering damage or unintended or unauthorized modification or disclosure
+- Loss
+
++ The entire set of controls and safeguards, including policy, education, training and awareness, and technology, that the organization implements (or fails to implement) to protect the asset.
+- Protection profile or security posture
+
++ The probability that something unwanted will happen.
+- Risk
+
++ A computer can be either the subject of an attack—an agent entity used to conduct the attack—or the object of an attack—the target entity.
+- Subjects and objects
+
++ A category of objects, persons, or other entities that presents a danger to an asset. Threats are always present and can be purposeful or undirected
+- Threat
+
++ The specific instance or a component of a threat
+- Threat Agent
+
++ A weaknesses or fault in a system or protection mechanism that opens it to attack or damage.
+- Vulnerability
+
++ enables authorized users—persons or computer systems—to access information without interference or obstruction and to receive it in the required format.
+- Availability
+
++ Information has accuracy when it is free from mistakes or errors and it has the value that the end user expects. If information has been intentionally or unintentionally modified, it is no longer accurate
+- Accuracy
+
++ information is the quality or state of being genuine or original, rather than a reproduction or fabrication.
+- Authenticity
+
++ Information has integrity when it is whole, complete, and uncorrupted. The integrity of information is threatened when the information is exposed to corruption
+- Integrity
+
++ Information has confidentiality when it is protected from disclosure or exposure to unauthorized individuals or systems.
+- Confidentiality
+
++ To protect the confidentiality of information, you can use a number of measures, including the following:
+- Information classification, Secure document storage, Application of general security policies, Education of information custodians and end users
+
++ The utility of information is the quality or state of having value for some purpose or end.
+- Utility
+
++ The possession of information is the quality or state of ownership or control.
+- Possession
+
++ is perhaps the most difficult IS component to secure.
+- Software
+
++ It accounts for a substantial portion of the attacks on information.
+- Exploitation of Errors
+
++ the physical technology that houses and executes the software, stores and transports the data, and provides interfaces for the entry and removal of information from the system.
+- Hardware
+
++ Data stored, processed, and transmitted by a computer system must be protected.
+- Data
+
++ Though often overlooked in computer security considerations, people have always been a threat to information security.
+- People
+
++ Another frequently overlooked component of an IS?
+- Procedures
+
++ are written instructions for accomplishing a specific task.
+- Procedures
+
++ The IS component that created much of the need for increased computer and information security
+- Networks
+
++ The two approach in information security
+- Bottom-up and Top-Down
+
++ What approach is this: Information security can begin as a grassroots effort in which systems administrators attempt to improve the security of their systems.
+- Bottom-up Approach
+
++ which the project is initiated by upper-level managers who issue policy, procedures and processes, dictate the goals and expected outcomes, and determine accountability for each required action—has a higher probability of success.
+- Top-down
+
++ A senior executive who promotes the project and ensures its support, both financially and administratively, at the highest levels of the organization.
+- Champion
+
++ A project manager, who may be a departmental line manager or staff unit manager, who understands project management, personnel management, and information security technical requirements.
+- Team Leader
+
++ People who understand the organizational culture, existing policies, and requirements for developing and implementing successful policies.
+- Security policy developers
+
++ People who understand financial risk assessment techniques, the value of organizational assets, and the security methods to be used.
+- Risk assessment specialists
+
++ Dedicated, trained, and well-educated specialists in all aspects of information security from both a technical and nontechnical standpoint.
+- Securit Proffersionals
+
++ People with the primary responsibility for administering the systems that house the information used by the organization.
+- Systems administrators
+
++ Those whom the new system will most directly affect.
+- End users
+
++ The three types of data ownership?
+- Data owners, Data Custodian, Data Users
+
++ Those responsible for the security and use of a particular set of information.
+- Data Owners
+
++ Working directly with data owners, data custodians are responsible for the storage, maintenance, and protection of the information.
+- Data Custodians
+
++ End users who work with the information to perform their assigned roles supporting the mission of the organization.
+- Data users
+
++ The roles of information security professionals are aligned with the goals and mission of the information security community of interest.
+- Information Security Management and Professionals
+
++ The community of interest made up of IT managers and skilled professionals in systems design, programming, networks, and other related disciplines has many of the same objectives as the information security community.
+- Information Technology Management and Professionals
+
++ The organization’s general management team and the rest of the resources in the organization make up the other major community of interest
+- Organizational Management and Professionals
+
++ why does securit is an art?
+- The administrators and technicians who implement security can be compared to a painter applying oils to canvas. A touch of color here, a brush stroke there, just enough to represent the image the artist wants to convey without overwhelming the viewer, or in security terms, without overly restricting user access.
+
++ Why Security as Science
+- Technology developed by computer scientists and engineers—which is designed for rigorous performance levels—makes information security a science as well as an art. Most scientists agree that specific conditions cause virtually all actions in computer systems.
+
++ Security as a Social Science
+- A third view to consider is information security as a social science, which integrates some of the components of art and science and adds another dimension to the discussion. Social science examines the behavior of individuals as they interact with systems, whether these are societal systems or, as in this context, information systems
+
++ It is an arena where the primary mission is to ensure things stay the way they are.
+- Information secrurity
+
++ (First phase) provides an overview of the environment in which security must operate, and the problems that security must address.
+- Investigation
+
++ Enumerate: Information security performs four important functions for an organization
+- Protects the organization’s ability to function, Enables the safe operation of applications implemented on the, organization’s IT systems, Protects the data the organization collects and uses, Safeguards the technology assets in use at the organization
+
++ responsible for implementing information security to protect the ability of the organization to function.
+- general management and IR management
+
++ Organizations must create integrated, efficient, and capable applications, Organization need environments that safeguard applications, Management must not abdicate to the IT department its responsibility to make choices and enforce decisions
+- Enabling Sage Operation
+
++ One of the most valuable assets is?
+- data
+
++ an organization loses its record of transactions and/or its ability to deliver value to its customers
+- without data
+
++ Organizations must have secure infrastructure services based on the size and scope of the enterprise, Additional security services may have to be provided, More robust solutions may be needed to replace security programs the organization has outgrown
+- Sageguarding Technology assets
+
++ object, person, or other entity that represents a constant danger to an asset
+- Threat
+
++ management effectively protects its information through what?
+- through policy, education and training, and technology controls
+
++ Includes acts done without malicious intent
+- Acts of human errors
+
++ what causes human error?
+- Inexperience, Improper training, Incorrect assumptions, Other circumstances
+
++ are greatest threats to information security; They are closest to the organizational data
+- Employees
+
++ Three sets of service issues that dramatically affect the availability of information and systems are
+- Internet service, Communications, Power irregularities
+
++ This category represents situations in which a product or services are not delivered to the organization as expected. The organization’s information system depends on the successful operation of many interd ependent support systems including, power grids, telecom networks, parts suppliers, service vendors, and even the janitorial staff and garbage haulers.
+- DEVIATIONS IN QUALITY OF SERVICE BY SERVICE PROVIDERS
+
++ can lead to considerable loss in the availability of information
+- loss of internet connections
+
++ When an organization outsources its web servers, the outsourcer assumes responsibility for
+- all internet services and The hardware and operating system software used to operate the web site
+
++ spike
+-momentary increase
+
++ surge 
+- prolonged increase
+
++ sag 
+- momentary low voltage
+
++ brownout 
+- prolonged drop
+
++ fault 
+- momentary loss of power
+
++ blackout 
+- prolonged loss
+
++ can lead to fluctuations such as power excesses, power shortages, and power losses.
+- Power Irregularities
+
++ Broad category of activities that breach confidentiality
+- Espionage or trespass
+
++ Hackers uses blank to steal the property of someone else
+- skill, guile, or fraud 
+
++ Generally two skill levels among hackers
+- expert hacker and script kiddies
+
++ develops software scripts and codes exploits, usually a master of many skills, will often create attack software and share with others
+- expert hacker
+
++ hackers of limited skill, use expert-written software to exploit a system do not usually fully understand the systems they hack
+- script kiddies
+
++ an individual who “cracks” or removes protection designed to prevent unauthorized duplication
+- cracker
+
++ hacks the public telephone network
+- phreaker
+
++ is an attacker or formerly trusted insider stealing information from a computer system and demanding compensation for its return or non-use
+- information extortion
+
++ Rising threat of hacktivist or cyber-activist operations – the most extreme version
+- cyber terorrism
+
++ Illegal taking of another’s property physical, electronic, or intellectual
+- Theft
+
++ When an individual or group designs software to attack systems, they create malicious code/software called malware
+- delibarate software attrack
+
++ a computer program that attaches itself to an executable file or application.
+- virus
+
++ It can replicate itself, usually through an executable program attached to an email.
+- virus
+
++ The keyword is “attaches”.
+- virus
+
++ compares virus signature files against the programming code of know viruses.
+- antivirus software
+
++ a computer program that replicates and propagates itself without having to attach itself to a host.
+- worm
+
++ Most infamous worms are?
+- code red and nimda
+
++ disguise themselves as useful computer programs or applications and can install a backdoor or rootkit on a computer.
+- trojan
+
++ computer programs that give attackers a means of regaining access to the attacked computer later.
+- root toolkits
+
++ Trojan programs that use common ports, such as?
+- as TCP 80, or UPD 53, are more
+
++ program sends info from the infected computer to the person who initiated the spyware program on your computer
+- spyware
+
++ Main purpose is to determine a user’s purchasing habits so that Web browsers can display advertisements tailored to that user.
+- adware
+
++ Both programs can be installed without the user being aware of their presence
+- spyware and adware
+
++ PROTECTING AGAINST DELIBERATE SOFTWARE ATTACKS
+- educate yourself, avoid fear tactics, 
+
++ the ownership of ideas and control over the tangible or virtual representation of those ideas
+- electronic property
+
++ Most common IP breaches
+- software piracy
+
++ has been attempted with technical security mechanisms
+- enforcement of copyrights
+
++ are dangerous because they are unexpected and can occur with very little warning
+- Forces of nature, force majeure, or acts of God
+
++ occur when a manufacturer distributes to users equipment containing flaws
+- Technical hardware failures or errors
+
++ can cause the system to perform outside of expected parameters, resulting in unreliable service or lack of availability
+- Technical hardware failures or errors
+
++ This category of threats comes from purchasing software with unrevealed faults
+- Technical hardware failures or errors
+
++ When the infrastructure becomes antiquated or outdated, it leads to unreliable and untrustworthy systems
+- TECHNOLOGICAL OBSOLESCENCE
+
++  is the deliberate act that exploits vulnerability
+- attack
+
++ by a threat-agent to damage or steal an organization’s information or physical asset
+- attack
+
++ The state of the art in attacking systems in 2002
+- 2002 is the multivector worm using up to six attack vectors to exploit a variety of vulnerabilities in commonly found information
+
++ Compromised system scans random or local range of IP addresses and targets any of several vulnerabilities known to hackers or left over from previous exploits
+- IP Scan and Attack
+
++ If the infected system has write access to any Web pages, it makes all Web content files infectious, so that users who browse to those pages become infected
+- web browsing
+
++ Each infected machine infects certain common executable or script files on all computers to which it can write with virus code that can cause infection
+- virus
+
++ using file shares to copy viral component to all reachable locations
+- unprotected shares
+
++ sending e-mail infections to addresses found in address book
+- mass mail
+
++ vulnerabilities used to compromise and infect
+- Simple Network Management Protocol
+
++ A more devious approach to attacking computer systems is the transmission of a virus hoax, with a real virus attached
+- hoaxes
+
++ Using a known or previously unknown and newly discovered access mechanism, an attacker can gain access to a system or network resource
+- backdoors
+
++ Attempting to reverse calculate a password
+- password crack
+
++ The application of computing and network resources to try every possible combination of options of a password
+- bruteforce
+
++ attack narrows the field by selecting specific accounts to attack and uses a list of commonly used passwords (the dictionary) to guide guesses
+- disctionary
+
++ attacker sends a large number of connection or information requests to a target so many requests are made that the target system cannot handle them successfully along with other, legitimate requests for service
+- Denial-of-service (DoS)
+
++ an attack in which a coordinated stream of requests is launched against a target from many locations at the same time
+- Distributed Denial-of-service (DDoS)
+
++ technique used to gain unauthorized access whereby the intruder sends messages to a computer with an IP address indicating that the message is coming from a trusted host
+- spoofing
+
++ an attacker sniffs packets from the network, modifies them, and inserts them back into the network
+- man in the middle
+
++ unsolicited commercial e-mail - while many consider spam a nuisance rather than an attack, it is emerging as a vector for some attacks
+- spam
+
++ another form of e-mail attack that is also a DoS, in which an attacker routes large quantities of e-mail to the target
+- mail-bombing
+
++ a program and/or device that can monitor data traveling over a network. Sniffers can be used both for legitimate network management functions and for stealing information from a network
+- Sniffers
+
++ within the context of information security, the process of using social skills to convince people to reveal access credentials or other valuable information to the attacker
+- Social Engineering
+
++ the weakest link. You can have the best technology; firewalls, intrusion-detection systems, biometric devices ... and somebody can cal an unsuspecting employee. That's all she wrote, baby. They got everything.”
+- people
+
++ the best configured firewall in the world can’t stand up to a well placed brick
+- brick attack 
+
++ application error occurs when more data is sent to a buffer than it can handle
+- Buffer overflow
+
++ A type of DoS attack, Attacker creates an ICMP packet that is larger than the maximum allowed 65,535 bytes, The large packet is fragmented into smaller packets and reassembled at its destination.
+- Ping of Death Attacks
+
++ relatively new, works by exploring the contents of a web browser’s cache, can allow collection of information on access to password-protected sites, another attack by the same name involves attempting to intercept cryptographic elements to determine keys and encryption algorithms
+- Timing Attack
+
++ Information security performs four important functions:
+- Protects organization’s ability to function, Enables safe operation of applications implemented on organization’s IT systems, Protects data the organization collects and uses, Safeguards the technology assets in use at the organization
+
++ effectively protects its information through policy, education, training, and technology controls
+- management

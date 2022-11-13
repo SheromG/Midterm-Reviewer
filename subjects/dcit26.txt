@@ -1,0 +1,152 @@
++ What is Applications Development?
+- is a systematic process of defining, designing, testing, and implementing a new application.
+
++ What is Application software
+- The application software is developed to solve almost all kinds of end-user requirements, from gaming and entertainment to engineering applications software.
+
++ It Provides an auxiliary set of instructions used in conjunction with the main software program.
+- Support Module
+
++ It converts instructions from a high-level language into machine language.
+- Translators
+
++ The only language that can be understand by a computer’s microprocessors.
+- Machine Language
+
++ It manages the overall system operations.
+- Control Programs 
+
++ A subprograms or routines that is frequently use by the programmer. 
+- Service Programs
+
++ Designed to allow the user to manipulate images on a computer or to print the images on a printer.
+- Graphic Software Packages 
+
++ It comprises of computer programs, support modules, and data modules.
+- Software
+
++ Application 
+- Computer program designed to help people perform an activity.
+ 
++ Set of instructions that solves a problem or carries out a task.
+- Program
+
++ is a collection of information organized in such a way that a computer program can quickly select desired pieces of information.
+- Database 
+
++ is an electronic ledger sheet on which data are entered.
+- Spreadsheet
+
++ These requirements pertain to behavioral properties that a system must have, including operational, performance, security, and cultural and political.
+- Non-functional requirements
+
++ These specify the operating environment(s) in which the system must perform.
+- Operational requirements 
+
++ These are requirements related to the process a system has to perform or data it needs to contain.
+- Functional requirements
+
++ These deal with issues related to the cultural and political factors and legal requirements that affect the system.
+- Cultural and Political requirements 
+
++ These deal with issues related to performance such as response time, capacity, and reliability of the system.
+- Performance requirements 
+
++ These address issues with security, such as who has access to the system’s data and must have the ability to protect data from disruption or data loss.
+- Security requirements 
+
++ It is the most commonly used requirement-gathering technique that comprises interviewers and interviewees
+- Interviews 
+
++ The act of watching processes being performed it enables the analyst to see the reality of a situation rather than listening to others describe it in interviews.
+- Observation
+
++ The process of cooperating with clients or users to determine what requirements that are needed.
+- Requirements elicitation 
+
++ It convert the high-level requirements defined from user requirements into a list of detailed requirements.
+- Requirements definition report 
+
++ In the analysis phase, all projects required systems analysts or requirements engineer.
+- Analysis phase 
+
++ An information-gathering technique that allows the project team, users, and management to work together to identify requirements for the system.
+- JAD session 
+
++ These are a set of written questions used to obtain information from individuals.
+- Questionnaires 
+
++ This is a form of qualitative research in which documents are analyzed and interpreted by the researchers to give voice and meaning around an assessment topic.
+- Document analysis 
+
++ Used to collect information and list the business or user requirements defined from that information.
+- Requirements-gathering techniques 
+
++ In software engineering, design patterns are the reusable solutions to commonly occurring problems in software design.
+- Design patterns 
+
++ This is the name of a pattern that can be use to describe a design problem, its solution, and consequences.
+- Pattern name 
+
++ Provides an abstract description of a design problem and how a general arrangement of element is solve.
+- Solution 
+
++ This describes when to use the pattern. It explains the problem and its context.
+- problem 
+
++ These are the results and interchanges of applying the pattern to the problem. They include time and space tradeoffs, but also flexibility, extensibility, and portability, among others.
+- Consequences 
+
++ These patterns deal with when and how objects are created. These provide object creation mechanisms that increase flexibility and reuse of existing codes.
+- Creational patterns 
+
++ These describe how objects are composed into larger groups and explain how to assemble objects and classes into larger structures while keeping their structures flexible and efficient.
+- Structural patterns 
+
++ These  describe  how  responsibilities  are  distributed  between  objects  in  the  design  and  how communication happens between objects.
+- Behavioral patterns
+
++ The Interface Segregation Principle (ISP) suggest avoiding depending on things that are not used.
+- Interface Segregation Principle (ISP) 
+
++ In Liskov Substitution Principle, all the derived classes of a base class should be able to perform the same behavior of their base class without negative side effects.
+- Liskov Substitution Principle 
+
++ Three (3) categories of design patterns in object-oriented design:
+- <strong> Creational Patterns</strong>: These patterns deal with when and how objects are created. These provide object creation mechanisms that increase flexibility and reuse of existing codes.
+- <strong> Structural Patterns</strong>: These describe how objects are composed into larger groups and explain how to assemble objects and classes into larger structures while keeping their structures flexible and efficient.
+- <strong> Behavioral Patterns</strong>: These describe how responsibilities are distributed between objects in the design and how communication happens between objects.
+
++  Four (4) essential features in Design Patterns: 
+- 1. Pattern Name – This is the name of a pattern that can be used to describe a design problem, its solution, and consequences. 
+- 2. Problem – This describes when to use the pattern. It explains the problem and its context. 
+- 3. Solution – This describes the elements that make up the design, their relationships, responsibilities, and collaborations. The pattern provides an abstract description of a design problem and how a general arrangement of element solves it. 
+- 4. Consequences – These are the results and interchanges of applying the pattern to the problem. They include time and space tradeoffs, but also flexibility, extensibility, and portability, among others.
+
++  Five (5) most commonly used requirements-gathering techniques: 
+- 1 Interviews: This is the most commonly used requirement-gathering technique. In general, interviews comprise interviewers and interviewees.
+- 2 Joint Application Development (JAD): JAD is an information-gathering technique that allows the project team, users, and management to work together to identify requirements for the system. This is the most useful method for collecting information from clients and is a structured process that involves a group of participants to meet together under the direction of a facilitator
+- 3 Questionnaires: These are a set of written questions used to obtain information from individuals. These are often used when there is a large number of people from whom information and opinions are needed.
+- 4 Document Analysis: This is often used by project teams to understand the current system (as is system) of an organization. This is a form of qualitative research in which documents are analyzed and interpreted by the researchers to give voice and meaning around an assessment topic.
+- 5 Observation: This is the act of watching processes being performed.
+
++ Four (4) steps when using questionnaires as a gathering technique:
+- 1) Selecting Participants : As with interviews and JAD sessions, the first step is to identify the individuals to whom the questionnaires will be sent.
+- 2) Designing a Questionnaire : Questions on questionnaires must be clearly written and leave little room for misunderstanding, so closed-ended questions are mostly used.
+- 3) Administering the Questionnaire : When administering the questionnaires, the key issues are how to make sure that participants will complete the questionnaire and send it back.
+- 4) Questionnaire Follow-up : It is important to process the returned questionnaires and develop a questionnaire report soon after the questionnaire’s deadline.
+
++ Five (5) basic steps to the JAD approach:
+- 1)	Selecting Participants : The process of selecting participants for a JAD session is the same as the process of selecting interviewee in the interview technique.
+- 2)	Designing JAD Session : The time cover of JAD session is depending on the size and scope of the project the session can.
+- 3)	Preparing for the JAD Session : JAD sessions can go beyond the depth of a typical interview, so it is important to prepare the analysts and participants for a JAD session.
+- 4)	Conducting the JAD Session : JAD sessions follows a formal agenda and rules that define appropriate behavior.
+- 5)	Post-JAD Follow-up : JAD post-session report is prepared and circulated among the participants.
+
++ Five (5) basic steps to the interview process:
+- 1)	Selecting Interviewees : The first step in interviewing is to create an interview schedule that lists who will be interviewed, when, and for what purpose.
+- 2)	Designing Interview Questions<ul><li> i.	Close-ended questions</li><li> ii.	Open-ended questions</li><li> iii.	Probing questions</li></ul>
+- 3)	Prepare for the Interview : It is important for an interviewer to prepare for the interview. The interviewer should have a general interview plan listing the questions to be asked in the appropriate order and should anticipate possible answers and provide follow up with them.
+- 4)	Conduct the Interview : The interviewer should start with an explanation of why s/he is conducting the interview and explain why the interviewee is there.
+- 5)	Post-Interview Follow up : After the interview, the analyst must prepare an 
+

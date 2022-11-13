@@ -1,0 +1,137 @@
++ Is a type of user interface through which users interact with electronic devices via visual indicator representations.
+- Graphical User Interface (GUI)
+
++ Is a glass tube that is narrow at one end and opens to a flat screen at the other end.
+- Cathode ray tube
+
++ Use optical effects to convert sunlight or light from some other source into graphics pattern
+- Non-emissive displays
+
++ Is a thin, flat display device made up of any number of pixels arrayed in front of a light source or reflector.
+- Liquid crystal display (LCD)
+
++ Is a type of flat panel display, suitable and now commonly used for large TV displays (typically above 37-inch or 940 mm).
+- Plasma Display Panel
+
++ These headsets are usually cable tethered from the headset and powered by external hardware.
+- PC-Based VR Headset
+
++ Is a head mounted device, such as goggles.
+- Virtual Reality Headset (VR Headset)
+
++ Use electromechanical mechanisms that cause hammers to strike against a ribbon and the paper.
+- Impact Printers
+
++ May involve batch processing or intelligent sensors controlling the environment.
+- Indirect interaction
+
++ Do not hit or impact a ribbon to print, but use heat, laser technology or photographic techniques to print output.
+- Non-Impact Printers
+
++ Is the study of how humans interact with manmade things. It doesn’t have to involve computers, though when the man-made thing isn’t a computer, we typically use the term “ergonomics” or “human factors”.
+- Usability
+
++ New users can accomplish goals easily and even more easily on future visits.
+- Ease of Learning
+
++ Is a ball that can be rotated with the fingers to produces screen-cursor movement
+- Trackball and spaceball
+
++ Is a thin, flat display device made up of any number of pixels arrayed in front of a light source or reflector.
+- Liquid crystal display (LCD)
+
++ Is the study of how humans interact with manmade things.
+- Usability
+
++ Words encompass text, which helps convey the right amount of information to users.
+- 1D: Words
+
++ Visual representations include typography, icons, and other graphics with which users interact.
+- 2D: Visual Representation
+
++ Is an interface that is used to enter text information an electronic device.
+- Text entry interface/ text entry device
+
++ Defined as the science concerned with the application of what we know about people, their abilities, characteristics, and limitations to the design of equipment
+- Human Factor
+
++ Acquire brain signals, analyze them, and translate them into commands that are relayed to output devices that carry out desired actions.
+- Brain-computer interfaces
+
++ Is a type of user interface through which users interact with electronic devices via visual indicator representations.
+- Graphical User Interface (GUI)
+
++ Provides you with a range of commands or options in the form of a list or menu displayed in full screen, pop-up, pull-down, or drop-down.
+- Menu-driven User Interface
+
++ Is speech recognition technology that allows people to interact with a computer or smartphone
+- Voice User Interface (VUI)
+
++ It is also a positioning device and is used to describe a flat surface separate from the display, on which the user draws with a stylus.
+- Tablet
+
++ Consists of a small that is used to steer the screen cursor around
+- Joystick
+
++ Is the use of computer technology to create simulated environments.
+- Virtual Reality (VR)
+
++ Includes sensory accessories such as controllers, as well as headsets, hand trackers, treadmills and, for creators, 3D cameras.
+- Virtual Reality Hardware (VR Hardware)
+
++ TRUE OR FALSE: Sensors acquire brain signals, analyze them, and translate them into commands that are relayed to output devices that carry out desired actions.
+- FALSE
+
++ TRUE OR FALSE: The goals of HCI are to produce usable and safe systems, as well as functional systems and non-functional system.
+- FALSE
+
++ TRUE OR FALSE: Designers must create a design that influences positive emotional stress responses in users.
+- FALSE
+
++ TRUE OR FALSE: Output in the human occurs mainly through the senses and output through the motor control of the effectors.
+- FALSE
+
++ TRUE OR FALSE: Usability is a term that is defined differently depending on which branch of science you are investigating.
+- TRUE
+
++ TRUE OR FALSE: 2D: Visual representations. Visual representations include typography, icons, and other graphics with which users interact.
+- TRUE
+
++ TRUE OR FALSE: Usability is used for the visual presentation of information.
+- FALSE
+
++ TRUE OR FALSE: Passive display devices reflect or modulate light
+- TRUE
+
++ TRUE OR FALSE: Non-emissive displays (or non-emitters) use optical effects to convert sunlight or light from some other source into graphics pattern
+- TRUE
+
++ TRUE OR FALSE: By interaction we mean any communication between a user and computer
+- TRUE
+
++ TRUE OR FALSE: Computer when we talk about the computer, we’re referring to technology ranging from desktop to large scale computer systems.
+- TRUE
+
++ TRUE OR FALSE: User by “user”, we may mean an individual user, a group of users working together
+- TRUE
+
++ TRUE OR FALSE: A basic goal of HCI is to improve the interactions between users and computers by making computer more usable and receptive to the user’s needs.
+- TRUE
+
++ TRUE OR FALSE: Usability is one of the key concepts in HCI. It is concerned with making systems easy to learn and use.
+- TRUE
+
++ TRUE OR FALSE: Indirect interaction may involve batch processing or intelligent sensors controlling the environment.
+- TRUE
+
++ TRUE OR FALSE: Human Factor is defined as the science concerned with the application of what we know about people, their abilities, characteristics, and limitations to the design of equipment they use, environments in which they function and jobs they perform.
+- TRUE
+
++ TRUE OR FALSE: The main goal of BCI is to replace or restore useful function to people disabled by neuromuscular disorder such as amyotrophic lateral sclerosis, cerebral palsy, stroke, or spinal cord injury.
+- TRUE
+
++ TRUE OR FALSE: The integration of ubiquitous sensing and networking technologies enables the development of new applications.
+- TRUE
+
++ TRUE OR FALSE: Direct interaction involves a dialog with feedback and control throughout the performance of the task.
+- TRUE
