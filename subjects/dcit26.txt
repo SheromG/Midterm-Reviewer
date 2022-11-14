@@ -1,8 +1,8 @@
-+ What is Applications Development?
-- is a systematic process of defining, designing, testing, and implementing a new application.
++ Is a systematic process of defining, designing, testing, and implementing a new application.
+- Applications Development
 
-+ What is Application software
-- The application software is developed to solve almost all kinds of end-user requirements, from gaming and entertainment to engineering applications software.
++ Is developed to solve almost all kinds of end-user requirements, from gaming and entertainment to engineering applications software.
+- Application Software 
 
 + It Provides an auxiliary set of instructions used in conjunction with the main software program.
 - Support Module
@@ -31,10 +31,10 @@
 + Set of instructions that solves a problem or carries out a task.
 - Program
 
-+ is a collection of information organized in such a way that a computer program can quickly select desired pieces of information.
++ Is a collection of information organized in such a way that a computer program can quickly select desired pieces of information.
 - Database 
 
-+ is an electronic ledger sheet on which data are entered.
++ Is an electronic ledger sheet on which data are entered.
 - Spreadsheet
 
 + These requirements pertain to behavioral properties that a system must have, including operational, performance, security, and cultural and political.
@@ -67,7 +67,7 @@
 + It convert the high-level requirements defined from user requirements into a list of detailed requirements.
 - Requirements definition report 
 
-+ In the analysis phase, all projects required systems analysts or requirements engineer.
++ In what phase are all projects required systems analysts or requirements engineer?
 - Analysis phase 
 
 + An information-gathering technique that allows the project team, users, and management to work together to identify requirements for the system.
@@ -82,7 +82,7 @@
 + Used to collect information and list the business or user requirements defined from that information.
 - Requirements-gathering techniques 
 
-+ In software engineering, design patterns are the reusable solutions to commonly occurring problems in software design.
++ In software engineering, <strong> blank </strong>are the reusable solutions to commonly occurring problems in software design.
 - Design patterns 
 
 + This is the name of a pattern that can be use to describe a design problem, its solution, and consequences.
@@ -106,10 +106,10 @@
 + These  describe  how  responsibilities  are  distributed  between  objects  in  the  design  and  how communication happens between objects.
 - Behavioral patterns
 
-+ The Interface Segregation Principle (ISP) suggest avoiding depending on things that are not used.
++ It suggest avoiding depending on things that are not used.
 - Interface Segregation Principle (ISP) 
 
-+ In Liskov Substitution Principle, all the derived classes of a base class should be able to perform the same behavior of their base class without negative side effects.
++ All the derived classes of a base class should be able to perform the same behavior of their base class without negative side effects.
 - Liskov Substitution Principle 
 
 + Three (3) categories of design patterns in object-oriented design:
