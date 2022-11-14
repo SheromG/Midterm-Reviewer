@@ -293,9 +293,104 @@
 - 4)	•	Develop User Interface Dialogs
 - 5)	•	Evaluate Requirements with Users
 
++ Are all of the requirements at the system level that describe the functions which the system as a whole should fulfill to satisfy the stakeholder needs and requirements, and are expressed in an appropriate combination of textual statements, views, and non-functional requirements
+- System Requirements 
+
++ Is a statement that identifies a product or processes operational, functional, or design characteristic or constraint, which is unambiguous, testable, or measurable and necessary for product or process acceptability (ISO 2007).
+- Requirement
+
++ Provides the ability to track information from the origin of the stakeholder requirements to the top level of requirements and other system definition elements at all levels of the system hierarchy.
+- Requirements traceability 
+
++ Traceability is also used to provide an understanding as to the extent of a change as an input when impact analyses are performed in cases of proposed engineering improvements or requests for change.
+- Traceability
+
++ Several classifications of system requirements are possible, depending on the requirements definition methods and/or the architecture and design methods being applied.
+- Classification of System Requirements
+
++ Is performed to ensure alignment of the system and system element requirements with other representations, analyses, and artifacts of the system.
+- Requirements Management 
+
++ Is the process of developing abstract models of a system, with each model presenting a different view or perspective of that system.
+- System modeling 
+
++ Types of Models(8 eight)
+- 1)	•	Formal versus Informal Models
+- 2)	•	Formal versus Informal Models
+- 3)	•	Physical Models versus Abstract Model
+- 4)	•	Descriptive Models
+- 5)	•	Analytical Models
+- 6)	•	Hybrid Descriptive and Analytical Models
+- 7)	•	Graphical Models
+
++ is an activity the system performs, usually in response to a request by a user.
+- use case 
+
++ Several techniques are recommended for identifying use cases including: (3 three)
+- 1)	<strong>User Goal Technique</strong> -This is an approach for identifying use cases in which an analyst talks to all users to get them to describe their goals in using the system.
+- 2)	<strong>CRUD Technique</strong> - This an approach in which an analyst looks at each type of data and includes use cases that create the data, read or report on the data, update the data, and delete the data.
+- 3)	<strong>Event Decomposition Technique</strong> - This is the most comprehensive technique for identifying use cases and focuses on identifying the events to which a system must respond and then determining how the system must respond.
+
++ Is a process where no major time gap occurs during the process – i.e., it may seem seamless.
+- Elementary Business Process (EBP) 
+
++ Event Decomposition Technique (3 three)
+- 1)	Identify the events to which a system must respond
+- 2)	Determine how the system must respond
+- 3)	Focus on events
+
++ Types of Events (3 three)
+- 1)	External Event 
+- 2)	Temporal Event 
+- 3)	State Event 
+
+
++ Is a catalogue of use cases that lists events in rows and key pieces of information about each event in columns.
+- Event Table 
+
++ There are three levels of use case descriptions: (3 three)
+- 1)	Brief Description
+- 2)	Intermediate Description
+- 3)	Fully Developed Description
+
++ Is a joint effort between the analyst and the users.
+- The Brainstorming Technique 
+
++ is a more mechanical approach to identifying classes, but it is also a powerful technique.
+- <strong>The Noun Technique</strong> includes <ul><li>Attribute of Things</li><li>Associate of Things</li></ul>
+
++ CRUD Meaning
+- 1)	<strong>Create</strong> - to create and store new data.
+- 2)	<strong>Read</strong> - to retrieve and read data.
+- 3)	<strong>Update</strong> - to change or modify then store the data.
+- 4)	<strong>Delete</strong> - to delete or remove the data.
+
++ 
+- 
+
 + 
 - 
 
 + 
 - 
 
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
