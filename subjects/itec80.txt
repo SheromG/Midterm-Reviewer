@@ -94,6 +94,9 @@
 + TRUE OR FALSE: Passive display devices reflect or modulate light
 - TRUE
 
++ TRUE OR FALSE: Active display devices are based on luminescence
+- TRUE
+
 + TRUE OR FALSE: Non-emissive displays (or non-emitters) use optical effects to convert sunlight or light from some other source into graphics pattern
 - TRUE
 
@@ -162,9 +165,6 @@
 
 + It is a positioning device which consists of a small plastic box resting on two metal wheels whose axes are at right angles.
 - Mouse
-
-+ are based on luminescence
-- Active display devices
 
 + arises as a result of absorption of photons.
 - Photoluminescence
