@@ -7,7 +7,7 @@
 - 3)	The processing and storage of that data by the computer.
 - 4)	The flow of useful and timely information back to the business and its people.
 
-+ Role of systems analyst: 
++ Role of systems analyst: (2 two)
 - Business analyst and 	Application analyst 
 
 + Is a systems analyst that specializes in business problem analysis and technology-independent requirements analysis.
@@ -74,7 +74,7 @@
 + Is an IS application that supports systems that allow employees to communicate with each other and with customers and suppliers. 
 - Communication Support System (CSS) 
 
-+ Systems that solves Business Problems (3 )
++ Systems that solves Business Problems (3 three)
 - 1)	Technical Knowledge and Skills 
 - 2)	Business Knowledge and Skills
 - 3)	People Knowledge and Skills
@@ -201,68 +201,97 @@
 + is abstract (separate) aspects of the real world. It comes in many forms like physical analogs, mathematical, and graphical.
 - Models
 
-+ 
-- 
++ There are (6) six main UP disciplines and three additional supported disciplines. 
+- 1)	Business Modeling
+- 2)	Requirements
+- 3)	Design
+- 4)	Implementation
+- 5)	Testing
+- 6)	Deployment
 
-+ 
-- 
++ Additional UP Disciplines are: (3 three)
+- 1)	•	Project Management
+- 2)	•	Configuration and Change Management
+- 3)	•	Environment
 
-+ 
-- 
++ The Overview of Object-Oriented Concepts (4 four)
+- 1)	•	Object-oriented analysis (OOA)
+- 2)	•	Object-oriented design (OOD)
+- 3)	•	Object-oriented programming (OOP)
+- 4)	•	Understanding the Concept of OO Concepts
 
-+ 
-- 
++ CASE Meaning
+- Computer Aided System Engineering
 
-+ 
-- 
++ •	Is an important aspect of the development of information systems and a critical skill for a system analyst.
+- Project Management
 
-+ 
-- 
++ Project manager typically perform four activities or functions such as: (4 four)
+- 1)	<strong>Project Planning</strong> that includes identifying all project tasks and estimating the completion time and cost of each
+- 2)	<strong>Project scheduling</strong> involves the creation of a specific timetable, usually in the form of charts that show task, task dependencies, and critical tasks that might delay the project.
+- 3)	<strong>Project monitoring</strong> requires guiding, supervising, and coordinating the project team’s workload.
+- 4)	<strong>Project reporting</strong> includes regular progress reports to management, users, and the project team itself.
 
-+ 
-- 
++ Is a professional organization that promotes project management, primarily within the United States but also throughout the world.
+- Project Management Institute (PMI) 
 
-+ 
-- 
++ PMBOK meaning 
+- Project management body of knowledge 
 
-+ 
-- 
++ PMBOK is organized into these nine knowledge areas:(9 nine)
+- 1)	o	Project Scope Management
+- 2)	o	Project Time Management
+- 3)	o	Project Cost Management
+- 4)	o	Project Quality Management
+- 5)    o	Project Human Resource Management
+- 6)	o	Project Communications Management
+- 7)	o	Project Risk Management
+- 8)	o	Project Procurement Management
+- 9)	o	Project Integration Management 
 
-+ 
-- 
++ involves breaking a project down into a series of smaller tasks. Before creating work breakdown structures, the two primary chart types should be understood:
+- work breakdown structure (WBS) 
 
-+ 
-- 
++ Who created Gantt Chart?
+- Henry L. Gantt, a mechanical engineer and management consultant, developed Gantt chart almost 100 years ago.
 
-+ 
-- 
++ Is a horizontal bar chart that represents a set of tasks.
+- Gantt Charts
 
-+ 
-- 
++ PERT meaning
+- Program Evaluation Review Technique 
 
-+ 
-- 
++ CPM Meaning 
+- Critical Path Method
 
-+ 
-- 
++ Is a bottom-up technique because it analyzes a large, complex project as a series of individual tasks, just as a pyramid is built from the bottom up using individual blocks.
+- PERT/CPM Charts
 
-+ 
-- 
++ is any work that has a beginning and an end and requires the use of company resources such as people, time, or money.
+- task or activity 
 
-+ 
-- 
++ is a recognizable reference point that can be used to monitor progress.
+- event or milestone 
 
-+ 
-- 
++ Steps in WBS (3 three)
+- 1)	•	Listing the Tasks 
+- 2)	•	Estimating Task Duration
+- 3)	•	Displaying the Work Breakdown Structure
 
-+ 
-- 
++ The Requirements discipline provides the primary input for Analysis and Design. (3 three)
+- 1)	•	The <strong>Implementation discipline</strong> implements the design. 
+- 2)	•	The <strong>Test discipline</strong> tests system designed during Analysis and Design. 
+- 3)	•	The <strong>Environment discipline</strong> develops and maintains the supporting artifacts that are used during Analysis and Design.
 
-+ 
-- 
++ Provides the primary input for Analysis and Design.
+- Requirements discipline 
 
-+ 
-- 
++ Requirements disciplines(5 five)
+- 1)	•	Gather Detailed Information 
+- 2)	•	Define Requirements <ul><li>Define Functional Requirements</li><li>Define Nonfunctional Requirements</li></ul>
+- 3)	•	Prioritize Requirements
+- 4)	•	Develop User Interface Dialogs
+- 5)	•	Evaluate Requirements with Users
 
 + 
 - 
