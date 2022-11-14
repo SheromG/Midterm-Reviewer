@@ -37,9 +37,6 @@
 + Is a ball that can be rotated with the fingers to produces screen-cursor movement
 - Trackball and spaceball
 
-+ Is a thin, flat display device made up of any number of pixels arrayed in front of a light source or reflector.
-- Liquid crystal display (LCD)
-
 + Words encompass text, which helps convey the right amount of information to users.
 - 1D: Words
 
