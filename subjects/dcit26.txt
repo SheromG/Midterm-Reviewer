@@ -25,8 +25,8 @@
 + It comprises of computer programs, support modules, and data modules.
 - Software
 
-+ Application 
-- Computer program designed to help people perform an activity.
++ Computer program designed to help people perform an activity.
+- Application
  
 + Set of instructions that solves a problem or carries out a task.
 - Program
