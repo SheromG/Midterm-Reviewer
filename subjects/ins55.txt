@@ -365,32 +365,33 @@
 - 3)	<strong>Update</strong> - to change or modify then store the data.
 - 4)	<strong>Delete</strong> - to delete or remove the data.
 
-+ 
-- 
++ Is a methodology used in system analysis to identify, clarify, and organize system requirements. 
+- Use Cases
 
-+ 
-- 
++ Every use case contains three essential elements:(3 three)
+- 1)	<strong>The actor.</strong> The system user -- this can be a single person or a group of people interacting with the process.
+- 2)	<strong>The goal.</strong> The final successful outcome that completes the process.
+- 3)	<strong>The system.</strong> The process and steps taken to reach the end goal, including the necessary functional requirements and their anticipated behaviors.
 
-+ 
-- 
++ Is a more abstract description that's written in a technology-agnostic way, referring only to the business process being described and the actors that are involved in the activity.
+- Business Use Case 
 
-+ 
-- 
++ Is written with more detail than a business use case, referring to the specific processes that must happen in various parts of the system to reach the final user goal.
+- System Use Case 
 
-+ 
-- 
++ Is a system of abstractions that describes selected aspects of a sphere of knowledge, influence, or activity (a domain).
+- The Domain Model
 
-+ 
-- 
++ In the Unified Modeling Language (UML), a class diagram is used to represent the domain model. Class - A type of classification used to describe a collection of objects(3 three)
+- 1)	<strong>Domain Class</strong> - Classes that describe objects in the problem domain
+- 2)	<strong>Class Diagram</strong> - A UML diagram that shows classes with attributes and associations (plus methods if it models software classes)
+- 3)	<strong>Domain Model Class Diagram </strong>- A class diagram that only includes classes from the problem domain, not software classes so no methods
 
-+ 
-- 
++ Is generally process of just discussing and planning next cycle, phase, or iteration of software application that is in process of development.
+- Iteration Planning
 
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
++ Iteration Planning(4 four)
+- 1)	<strong>Inception Iteration</strong> is generally responsible to establish scope and vision and to explain and define business case.
+- 2)	<strong>Elaboration Iteration</strong> also results in architecture with complete framework and infrastructure for execution.
+- 3)	<strong>Construction Iterations.</strong> The essential result of late iteration in construction phase is that more functionality is added, which yields an increasing complete system.
+- 4)	<strong>Transition Iteration</strong> is generally responsible to migrate product into user community.
