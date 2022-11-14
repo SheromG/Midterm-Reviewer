@@ -40,9 +40,6 @@
 + Is a thin, flat display device made up of any number of pixels arrayed in front of a light source or reflector.
 - Liquid crystal display (LCD)
 
-+ Is the study of how humans interact with manmade things.
-- Usability
-
 + Words encompass text, which helps convey the right amount of information to users.
 - 1D: Words
 
@@ -57,9 +54,6 @@
 
 + Acquire brain signals, analyze them, and translate them into commands that are relayed to output devices that carry out desired actions.
 - Brain-computer interfaces
-
-+ Is a type of user interface through which users interact with electronic devices via visual indicator representations.
-- Graphical User Interface (GUI)
 
 + Provides you with a range of commands or options in the form of a list or menu displayed in full screen, pop-up, pull-down, or drop-down.
 - Menu-driven User Interface
@@ -135,3 +129,117 @@
 
 + TRUE OR FALSE: Direct interaction involves a dialog with feedback and control throughout the performance of the task.
 - TRUE
+
++ Physical objects are a medium through which users interact with the product or service. For instance, a user interacts with computers and a mouse while sitting on a desk in an office space.
+- 3D: Physical objects or space.
+
++ Time helps users understand visual changes in a UI; it also helps users track their progress
+- 4D: Time
+
++ Includes both action and reaction. Is what describes the mechanism of an interaction with a product.
+- 5D: Behavior
+
++ Is a design style that holds problem-solving as the highest priority.
+- Goal-driven design
+
++ Is a solution for a particular context.
+- Pattern
+
++ seeks to reduce negative impacts on the environment, and the health and comfort of building occupants, thereby improving building performance.
+- Sustainable design
+
++ It supports users in completing actions accurately.
+- Effectiveness 
+
++ Users can perform tasks quickly through the easiest process.
+- Efficiency
+
++ Users find it pleasant to use and appropriate for its industry/topic.
+- Engagement
+
++ It supports a range of user actions and only shows an error in genuine erroneous situations. You achieve this by finding out the number, type and severity of common errors users make, as well as how easily users can recover from those errors.
+- Error Tolerance
+
++ It is a pointing device
+- Light Pen
+
++ It is a positioning device which consists of a small plastic box resting on two metal wheels whose axes are at right angles.
+- Mouse
+
++ are based on luminescence
+- Active display devices
+
++ arises as a result of absorption of photons.
+- Photoluminescence
+
++ is a result of excitation from the application of an electric field.
+- Electroluminescence 
+
++ is the general term used to describe the emission of electromagnetic radiation from a substance due to a non-thermal process.
+- Luminescence
+
++ persists for a short lifetime of the transition between the two energy levels.
+- Fluorescence 
+
++ persists for much longer time (more than 10-8 s)
+- Phosphorescence
+
++ refers to a class of display devices that have reduced volume, weight and power requirements compared to CRT.
+- Flat-Panel Display
+
++ are devices that convert electrical energy into light.
+- Emissive Displays 
+
++ is a variant of liquid crystal display (LCD) which uses thin film transistor (TFT) technology to improve image quality.
+- Thin Film Transistor Liquid Crystal Display
+
++  All-in one or standalone VR headsets are wireless, integrated pieces of hardware, such as tablets or phones.
+- Standalone VR Headsets
+
++ These shell devices use lenses that cover a smartphone. The lenses separate the screen to create a stereoscopic image that transforms a smartphone into a VR device.
+- Mobile Headsets
+
++ Are hardware products that facilitate VR technology.
+- Virtual Reality Accessories
+
++ is a control and pointing device designed for movement in virtual 3D spaces.
+- 3D Mouse
+
++ Visual devices monitors the user’s position
+- Optical Trackers
+
++ This type of device, worn on the hands, is also known as cyber gloves or data gloves.
+- Wired Gloves
+
++ These accessories allow users to act in mixed reality.
+- Motion Controllers
+
++ This accessory machine gives users the ability to move in any direction physically.
+- Omnidirectional Treadmills
+
++ are one of the newer accessories in the VR world.
+- Smelling Devices
+
++ A scanner that provides a flat, glass surface to hold a sheet of paper, book or other object for scanning. 
+- Fat-bed scanner
+
++ is an electronic device that performs the task of scanning documents just like a flatbed scanner, but it is physically handheld.
+- Handheld Scanner 
+
++ is any physical device capable of storing information temporarily, like Random Access Memory, or permanently, like Read-only Memory.
+- Computer Memory
+
++ utilize integrated circuits and are used by operating systems, software, and hardware.
+- Memory devices
+
++ loses its contents when the computer or hardware device loses power. Computer RAM is an example of blank memory.
+- Volatile memory
+
++ keeps its contents even if the power is lost. EPROM is an example of blank memory.
+- Non-volatile memory
+
++ is a combination of servers and storage into a distributed infrastructure platform with intelligent software to create flexible building blocks that replace legacy infrastructure consisting of separate servers, storage networks, and storage arrays.
+- Hyperconverged infrastructure (HCI) 
+
++ is fundamentally an information-processing task.
+- HCI
