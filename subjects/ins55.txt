@@ -94,89 +94,112 @@
 + Analysts work with others to develop systems, including employees from various areas of the company and with other system developers. Therefore, people knowledge and skills are crucial.
 - People Knowledge and Skills
 
-+ 
-- 
++ The principal role in systems project is played by the systems analyst. What does it take to become a successful systems analyst? (9 nine)
+- 1)	•	Working Knowledge of Information Technology
+- 2)	•	Computer Programming Experience and Expertise
+- 3)	•	General Business Knowledge
+- 4)	•	Problem-Solving Skills
+- 5)	•	Interpersonal Communication Skills
+- 6)	•	Interpersonal Relations Skills
+- 7)	•	Flexibility and Adaptability
+- 8)	•	Character and Ethics
+- 9)	•	System Analysis and Design Skills
 
-+ 
-- 
++ Sometimes systems analysts also manage the project and are referred to as project leaders or project managers. Other job titles include: (12 twelve)
+- 1)	•	Programmer analyst
+- 2)	•	Business systems analyst
+- 3)	•	System liaison
+- 4)	•	End-user analyst
+- 5)	•	Business consultant
+- 6)	•	Systems consultant
+- 7)	•	Systems support analyst
+- 8)	•	Systems designer
+- 9)	•	Software engineer
+- 10)	•	System architect
+- 11)	•	Webmaster
+- 12)	•	Webmaster
 
-+ 
-- 
++ An analyst might work closely with executives to develop an executive information system.
+- •	Special projects 
 
-+ 
-- 
++ Analysts are often involved with issues related to the role of information systems.
+- •	Strategic planning processes 
 
-+ 
-- 
++ The plan defining the technology and applications the information systems function needs to provide to support the organization’s strategic plan
+- •	Information systems strategic planning 
 
-+ 
-- 
++ A process in which an organization commits to using an integrated set of software packages for key information systems.
+- •	Enterprise resource planning (ERP)
 
-+ 
-- 
++ Is the process of building, deploying, using, and updating an information system. It provides overall framework for managing systems development process.
+- System development lifecycle (SDLC) 
 
-+ 
-- 
++ Information System Development Phases
+- Planning -> Analysis -> Design -> Implementation  
 
-+ 
-- 
++ initiates, ensures feasibility, plans, schedules, and obtains approval for project. It identifies the scope of the new system, ensure that the project is feasible, and develop a schedule, resource plan, and budget for the remainder of the project.
+- Project planning 
 
-+ 
-- 
++ understands business needs and processing requirements of the new system.
+- Analysis 
 
-+ 
-- 
++ defines solution system based on requirements and analyzed decisions.
+- Design
 
-+ 
-- 
++ constructs, tests, and installs a reliable information system with trained users ready to benefit as expected from the system.
+- Implementation
 
-+ 
-- 
++ keeps the system running productively initially and during the system’s lifetime.
+- Support
 
-+ 
-- 
++ The chief variations of SDLC include: (2 two)
+- 1)	<strong>Predictive</strong> - assumes project can be planned out in advance.
+- 2)	<strong>Adaptive</strong> – more flexible, assumes project cannot be planned out in advance.
 
-+ 
-- 
++ The Traditional Predictive SDLC Approaches (2 two)
+- Pure Waterfall Approach and Modified Waterfall Approach
 
-+ 
-- 
++ The Newer Adaptive Approaches to the SDLC
+- Spiral Model and Iterative Model
 
-+ 
-- 
++ The waterfall model is a sequential design process in which progress is seen as flowing steadily downwards (like a waterfall).•	It assumes that project phases can be sequentially executed.•	First introduced by Dr. Winston W. Royce
+- Pure Waterfall Approach (Predictive SDLC)
 
-+ 
-- 
++ •	The iterative waterfall model provides feedback paths from every phase to its preceding phases, which is the main difference from the classical waterfall model. •	The feedback paths allow the phase to be reworked in which errors are committed and these changes are reflected in the later phases.
+- Modified Waterfall Approach
 
-+ 
-- 
++ •	Project cycles through development activities over and over until project is complete.•	Prototype created by end of each cycle. •	Focuses on mitigating risk.
+- Spiral Model
 
-+ 
-- 
++ •	Work activities are repeated.•	Each iteration refines previous result.•	Approach assumes no one gets it right the first time. •	There are a series of mini projects for each iteration.
+- Iterative Model
 
-+ 
-- 
++ The Unified Process (UP) Life Cycle (4 four)
+- 1)	Inception
+- 2)	Elaboration
+- 3)	Construction
+- 4)	Transition
 
-+ 
-- 
++ Develop an approximate vision of the system, make the business case, define the scope, and produce rough estimates for cost and schedule.
+- Inception
 
-+ 
-- 
++ Refine the vision, identify and describe all requirements, finalize the scope, design and implement the core architecture and functions, resolve high risks, and produce realistic estimates for cost and schedule.
+- Elaboration
 
-+ 
-- 
++ Iteratively implement the remaining low-risk, predictable and easier elements and prepare for deployment.
+- Construction
 
-+ 
-- 
++ Complete the beta test and deployment so users have a working system and are ready to benefit as expected.
+- Transition
 
-+ 
-- 
++ A collection of guidelines that enables an analyst to complete an activity or task
+- Techniques
 
-+ 
-- 
++ These are software used to create models or components
+- Tools
 
-+ 
-- 
++ is abstract (separate) aspects of the real world. It comes in many forms like physical analogs, mathematical, and graphical.
+- Models
 
 + 
 - 
